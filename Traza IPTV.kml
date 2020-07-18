@@ -2,41 +2,142 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Traza IPTV</name>
-    <Style id="line-FF0000-1000-normal">
+    <Style id="line-01579B-2938-normal">
       <LineStyle>
-        <color>ff0000ff</color>
-        <width>1</width>
+        <color>ff9b5701</color>
+        <width>2.938</width>
       </LineStyle>
     </Style>
-    <Style id="line-FF0000-1000-highlight">
+    <Style id="line-01579B-2938-highlight">
       <LineStyle>
-        <color>ff0000ff</color>
-        <width>1.5</width>
+        <color>ff9b5701</color>
+        <width>4.407</width>
       </LineStyle>
     </Style>
-    <StyleMap id="line-FF0000-1000">
+    <StyleMap id="line-01579B-2938">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-FF0000-1000-normal</styleUrl>
+        <styleUrl>#line-01579B-2938-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-FF0000-1000-highlight</styleUrl>
+        <styleUrl>#line-01579B-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-3131-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-3131-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-3325-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-3325-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-097138-2938-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-097138-2938-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-097138-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-097138-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-097138-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-2938-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-880E4F-2938-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-880E4F-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-3131-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-880E4F-3131-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-880E4F-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-3131-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>Mar del Plata - Tres Arroyos (CAMINO 3)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #f00f7a<br>strokeColor: #f00f7a]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #f00f7a</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#f00f7a</value>
-        </Data>
-      </ExtendedData>
+      <description>#f00f7a</description>
+      <styleUrl>#line-880E4F-3131</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -963,17 +1064,8 @@ strokeColor: #f00f7a</value>
     </Placemark>
     <Placemark>
       <name>Tres Arroyos - Bahía Blanca (CAMINO 3)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #f00f7a<br>strokeColor: #f00f7a]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #f00f7a</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#f00f7a</value>
-        </Data>
-      </ExtendedData>
+      <description>#f00f7a</description>
+      <styleUrl>#line-880E4F-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -2393,17 +2485,8 @@ strokeColor: #f00f7a</value>
     </Placemark>
     <Placemark>
       <name>Chascomús - Dolores (CAMINO 2)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-01579B-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -2907,17 +2990,8 @@ strokeColor: #0080ff</value>
     </Placemark>
     <Placemark>
       <name>Tandil - E.T. Balcarce (CAMINO 1)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #00ff00<br>strokeColor: #00ff00]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #00ff00</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#00ff00</value>
-        </Data>
-      </ExtendedData>
+      <description>#00ff00</description>
+      <styleUrl>#line-097138-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -3530,17 +3604,8 @@ strokeColor: #00ff00</value>
     </Placemark>
     <Placemark>
       <name>E.T. Balcarce - Mar del Plata (CAMINO 1)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-097138-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -4052,17 +4117,8 @@ strokeColor: #0080ff</value>
     </Placemark>
     <Placemark>
       <name>Barracas - Tandil (CAMINO 1)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #00ff00<br>strokeColor: #00ff00]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #00ff00</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#00ff00</value>
-        </Data>
-      </ExtendedData>
+      <description>#00ff00</description>
+      <styleUrl>#line-097138-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -6334,17 +6390,8 @@ strokeColor: #00ff00</value>
     </Placemark>
     <Placemark>
       <name>La Plata - Barracas (CAMINO 2)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-01579B-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -6871,17 +6918,8 @@ strokeColor: #0080ff</value>
     </Placemark>
     <Placemark>
       <name>Brandsen - La Plata (CAMINO 2)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-01579B-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -7399,17 +7437,8 @@ strokeColor: #0080ff</value>
     </Placemark>
     <Placemark>
       <name>Chascomús - Brandsen (CAMINO 2)</name>
-      <description><![CDATA[Descripción: Descripción: Empresa: TASA<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Empresa: TASA
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-01579B-3131</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -8351,17 +8380,8 @@ strokeColor: #0080ff</value>
     </Placemark>
     <Placemark>
       <name>Dolores - Mar del Plata (CAMINO 2 - SWAP TECO)</name>
-      <description><![CDATA[Descripción: Descripción: Segurizado por FO TASA (DOLORES-MAR DEL PLATA)<br>strokeColor: #0080ff<br>strokeColor: #0080ff]]></description>
-      <styleUrl>#line-FF0000-1000</styleUrl>
-      <ExtendedData>
-        <Data name="Descripción">
-          <value>Descripción: Segurizado por FO TASA (DOLORES-MAR DEL PLATA)
-strokeColor: #0080ff</value>
-        </Data>
-        <Data name="strokeColor">
-          <value>#0080ff</value>
-        </Data>
-      </ExtendedData>
+      <description>#0080ff</description>
+      <styleUrl>#line-01579B-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
